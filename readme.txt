@@ -4,8 +4,4 @@ Git has a mutable index called stage.
 
 add one line for branch dev
 
-add anoother one 
-
-new one
-
 
